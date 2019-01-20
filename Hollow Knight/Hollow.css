@@ -1,0 +1,177 @@
+.top{
+	float: left;
+	height: 650px;
+	background-image: url(https://news.xbox.com/en-us/wp-content/uploads/HollowKnight_thumbnail_youtube-hero.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	margin: 0%;
+}
+.top2{
+	float: left;
+	height: 650px;
+	background-image: url(zastavka5.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	margin: 0%
+}
+.top3{
+	float: left;
+	height: 650px;
+	background-image: url(zastavka3.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	margin: 0%
+}
+.top4{
+	float: left;
+	height: 650px;
+	background-image: url(zastavka2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	margin: 0%
+}
+.top5{
+	float: left;
+	height: 650px;
+	background-image: url(zastavka4.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	margin: 0%
+}
+.nadpis{
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-left:24%;
+	margin-top: 10%;
+}
+.hr{
+	margin-left: 22%;
+}
+.hr2{
+	margin-left: 34%;
+}
+.Osnova{
+	border-radius: 7px;
+	border: 2px solid rgb(1,1,1);
+	margin-left: 10%;
+	background-color: rgb(14, 11, 19);
+	width: 80%;
+}
+.Osnova2{
+	border-radius: 7px;
+	border: 2px solid rgb(217,25,59);
+	margin-left: 10%;
+	background-color: rgb(14, 11, 19);
+	width: 80%;
+}
+.Osnova3{
+	border-radius: 7px;
+	border: 3px solid rgb(179,158,81);
+	margin-left: 10%;
+	background-color: rgb(14, 11, 19);
+	width: 80%;
+}
+.Osnova4{
+	border-radius: 7px;
+	border: 3px solid rgb(8,81,196);
+	margin-left: 10%;
+	background-color: rgb(14, 11, 19);
+	width: 80%;
+}
+.Osnova5{
+	border-radius: 7px;
+	border: 3px solid rgb(179,158,81);
+	margin-left: 10%;
+	background-color: rgb(14, 11, 19);
+	width: 80%;
+}
+.Karta{
+	margin-left: 20%;
+}
+.hol{
+	float: left;
+	background-image: url(fon1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	margin: 0%;
+}
+.dlc{
+	float: left;
+	background-image: url(fon2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	margin: 0%;
+}
+.dlc2{
+	float: left;
+	background-image: url(fon3.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	margin: 0%;
+}
+.dlc3{
+	float: left;
+	background-image: url(fon4.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	margin: 0%;
+}
+.dlc4{
+	float: left;
+	background-image: url(fon5.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	margin: 0%;
+}
+.flexcont{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+.block{
+	width: 30%;
+	border-radius: 7px;
+	border: 1px solid rgb(228,228,228);
+}
+a{
+	color: rgb(39,43,94);
+	text-decoration: none;
+}
+a:honer{
+	text-decoration:
+}
+.svet:hover{
+	text-shadow: 0 0 15px rgba(59,9,166,0.8);
+}
+.svet2:hover{
+	text-shadow: 0 0 15px rgba(238,0,76,0.8); 
+}
+.svet3:hover{
+	text-shadow: 0 0 15px rgba(255,220,51,0.8); 
+}
+.svet4:hover{
+	text-shadow: 0 0 15px rgba(3,200,218,0.8);
+}
+.svet5:hover{
+text-shadow: 0 0 15px rgba(,0.8);
+}
+.tab{
+	margin-left: 10%;
+}
+.tab2{
+	width: 28%;
+}
+.tab3{
+	width: 40%;
+}
+
